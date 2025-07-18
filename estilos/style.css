@@ -118,7 +118,7 @@ form > a.botao{
     color: #244f4d
 }
 form > a.botao:hover{
-    background-color: #79e6e2;
+    background-color: #a6e4e2;
     transition-duration: 0.3s;
 }
 form > a.botao > span{
